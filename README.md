@@ -5,7 +5,7 @@ Magento Upsell Product Enhancement with PredictionIO
 
 ## Install
 
-Clone the git repo - `git clone git://github.com/richdynamix/Similar-Products.git` - or https://github.com/richdynamix/Similar-Products/archive/master.zip
+Clone the git repo - `git clone git://github.com/curkle/Similar-Products.git` - or https://github.com/curkle/Similar-Products/archive/master.zip
 
 Once downloaded copy the contents (app) folders to your project root merging with your existing magento installation.
 
